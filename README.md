@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Promise Okongwu 👋
 
-<!--
-**Kossy-26/kossy-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Insights & Analytics student at Humber College (Co-op).
+I enjoy working with data to find patterns and help businesses make better decisions.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- SQL (MySQL) — data querying and cleaning
+- Microsoft Excel — pivot tables, charts, reporting
+- Data Analysis and Business Intelligence
+- ETL process and relational database design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **Retail Sales Intelligence System** — SQL + Excel BI project (see below)
+
+## 📫 Contact
+- Email: okongwupromise2000@icloud.com
+- Location: Toronto, ON
