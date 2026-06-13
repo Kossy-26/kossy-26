@@ -11,7 +11,7 @@ I'm a data analyst based in Toronto, ON, with a focus on turning raw data into c
 
 ## 📂 Projects
 - **Retail Sales Dashboard** — Excel project (see below)
-
+https://github.com/Kossy-26/Retail-Sales-Dashboard
 ## 📫 Contact
 - Email: okongwupromise2000@icloud.com
 - Location: Toronto, ON
