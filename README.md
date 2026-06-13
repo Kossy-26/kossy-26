@@ -10,7 +10,7 @@ I'm a data analyst based in Toronto, ON, with a focus on turning raw data into c
 - Python
 
 ## 📂 Projects
-- **Retail Sales Intelligence System** — SQL + Excel BI project (see below)
+- **Retail Sales Dashboard** — Excel project (see below)
 
 ## 📫 Contact
 - Email: okongwupromise2000@icloud.com
